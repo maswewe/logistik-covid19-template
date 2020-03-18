@@ -1,0 +1,1 @@
+# logistik-covid19-template
